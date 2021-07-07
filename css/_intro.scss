@@ -57,4 +57,7 @@
 .intro-foto {
   border: 10px solid $secundary-color;
   width: 100%;
+  @include d(s) {
+    width: 100%;
+  }
 }
