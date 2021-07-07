@@ -1,0 +1,19 @@
+body {
+  background: $primary-color;
+  border: 10px solid $secundary-color;
+  color: $text-color;
+  @include d(s) {
+    border: none;
+  }
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.titulo {
+  @include tipo-1(18);
+  text-transform: uppercase;
+}
+
