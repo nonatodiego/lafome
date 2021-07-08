@@ -24,6 +24,8 @@
 
 Site for training Sass concepts like the use of mixins, include, grid, import and other concepts 
 
+<a href="nonatodiego.github.io/lafome/">Demo</a>
+
 ## Tecnologies :rocket:
 
 - HTML
