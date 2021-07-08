@@ -40,7 +40,7 @@ Site for training Sass concepts like the use of mixins, include, grid, import an
 
 ## License :scroll:
 
-> This project is under the MIT license. See the archive [LICENSE](LICENSE) for more details.
+> FREE
 
 ---
 
