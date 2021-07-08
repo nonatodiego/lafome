@@ -44,4 +44,4 @@ Site for training Sass concepts like the use of mixins, include, grid, import an
 
 ---
 
-##### Made by 'Your name'(nickname) :wave:
+##### Made by Diego Nonato :wave:
