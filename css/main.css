@@ -508,4 +508,27 @@ input.button:hover {
   clear: both;
   width: 100%;
 }
+
+footer {
+  padding: 20px 0;
+  background-color: #2a2426;
+  -webkit-box-shadow: 0 0 0 10px #2a2426;
+  box-shadow: 0 0 0 10px #2a2426;
+}
+
+footer p {
+  color: #edece4;
+  margin-bottom: 8px;
+}
+
+@media screen and (max-width: 749px) {
+  footer p {
+    text-align: center;
+  }
+}
+
+footer a {
+  text-decoration: none;
+  color: #1ab912;
+}
 /*# sourceMappingURL=main.css.map */

@@ -1,0 +1,16 @@
+footer {
+  padding: 20px 0;
+  background-color: $text-color;
+  @include box-shadow(0 0 0 10px $text-color);
+  p {
+    color: $primary-color;
+    margin-bottom: 8px;
+    @include d(s) {
+      text-align: center;
+    }
+  }
+  a {
+    text-decoration: none;
+    color: $green-color;
+  }
+}
